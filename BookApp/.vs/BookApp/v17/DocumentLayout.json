@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Learn-EFCore\\BookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC51AAA3-2BBA-48F4-8F99-29F81F401CF8}|Solution Items{BC51AAA3-2BBA-48F4-8F99-29F81F401CF8}|Z:\\Learn-EFCore\\BookApp\\Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC51AAA3-2BBA-48F4-8F99-29F81F401CF8}|Solution Items{BC51AAA3-2BBA-48F4-8F99-29F81F401CF8}|solutionrelative:Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F7B6E8-576D-49C4-B8D2-65A8703293B7}|DataLayer\\DataLayer.csproj|z:\\learn-efcore\\bookapp\\datalayer\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F7B6E8-576D-49C4-B8D2-65A8703293B7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F7B6E8-576D-49C4-B8D2-65A8703293B7}|DataLayer\\DataLayer.csproj|z:\\learn-efcore\\bookapp\\datalayer\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F7B6E8-576D-49C4-B8D2-65A8703293B7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "Z:\\Learn-EFCore\\BookApp\\DataLayer\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\DbContext.cs",
+              "ToolTip": "Z:\\Learn-EFCore\\BookApp\\DataLayer\\Data\\DbContext.cs",
+              "RelativeToolTip": "DataLayer\\Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:35:23.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "Z:\\Learn-EFCore\\BookApp\\Notes.txt",
+              "RelativeDocumentMoniker": "Notes.txt",
+              "ToolTip": "Z:\\Learn-EFCore\\BookApp\\Notes.txt",
+              "RelativeToolTip": "Notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-08T19:33:00.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tags.cs",
+              "DocumentMoniker": "Z:\\Learn-EFCore\\BookApp\\DataLayer\\Models\\Tags.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\Tags.cs",
+              "ToolTip": "Z:\\Learn-EFCore\\BookApp\\DataLayer\\Models\\Tags.cs",
+              "RelativeToolTip": "DataLayer\\Models\\Tags.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:15:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

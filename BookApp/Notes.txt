@@ -1,0 +1,5 @@
+# ToDo:
+- Install all needed NuGet packages.
+- Explicitly configure TagId as a primary key because it's a string.
+- Use 'Grouping Configuration Technique' to configure entity types.
+	- Watch episode 7 in Mitegator EF Core tutorial.
