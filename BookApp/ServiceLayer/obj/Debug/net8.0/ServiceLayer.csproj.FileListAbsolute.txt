@@ -1,0 +1,16 @@
+Z:\Learn-EFCore\BookApp\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+Z:\Learn-EFCore\BookApp\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+Z:\Learn-EFCore\BookApp\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+Z:\Learn-EFCore\BookApp\ServiceLayer\bin\Debug\net8.0\DataLayer.dll
+Z:\Learn-EFCore\BookApp\ServiceLayer\bin\Debug\net8.0\DataLayer.pdb
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.sourcelink.json
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+Z:\Learn-EFCore\BookApp\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll

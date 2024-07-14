@@ -1,6 +1,5 @@
 ﻿namespace BookApp.DataLayer.Models;
 
-
 public class Author
 {
     public int AuthorId { get; set; }

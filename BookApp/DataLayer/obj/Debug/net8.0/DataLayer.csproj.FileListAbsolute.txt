@@ -1,0 +1,15 @@
+Z:\Learn-EFCore\BookApp\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+Z:\Learn-EFCore\BookApp\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+Z:\Learn-EFCore\BookApp\DataLayer\bin\Debug\net8.0\DataLayer.dll
+Z:\Learn-EFCore\BookApp\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\DataLayer.sourcelink.json
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\DataLayer.dll
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+Z:\Learn-EFCore\BookApp\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
